@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7300" started-at="2019-04-02T21:11:43 EDT" finished-at="2019-04-02T21:11:50 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7300" started-at="2019-04-02T21:11:43 EDT" finished-at="2019-04-02T21:11:50 EDT">
+      <class name="com.RESTAPITest.Tests.RestTest">
+        <test-method status="PASS" signature="deleteJSONRequest()[pri:0, instance:com.RESTAPITest.Tests.RestTest@578486a3]" name="deleteJSONRequest" duration-ms="6203" started-at="2019-04-02T21:11:43 EDT" finished-at="2019-04-02T21:11:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJSONRequest -->
+      </class> <!-- com.RESTAPITest.Tests.RestTest -->
+      <class name="com.RESTAPITest.Tests.TestClass">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.RESTAPITest.Tests.TestClass@551aa95a]" name="testMethod1" duration-ms="855" started-at="2019-04-02T21:11:49 EDT" finished-at="2019-04-02T21:11:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- com.RESTAPITest.Tests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

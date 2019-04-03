@@ -1,0 +1,7 @@
+20:19:49.338 [main] INFO  myproject.Homepage - Username Title Validated
+20:19:51.008 [main] INFO  myproject.Homepage - Username Dropdown Validated
+20:19:52.499 [main] INFO  myproject.Homepage - Username Email Input Validated
+20:19:52.883 [main] INFO  myproject.Homepage - Email Title Validated
+20:19:52.975 [main] INFO  myproject.Homepage - Email Dropdown Validated
+20:19:55.220 [main] INFO  myproject.Homepage - Email entered
+20:19:59.601 [main] INFO  myproject.Homepage - User info input and Cancel button Validated
